@@ -1,8 +1,12 @@
 # 2 semester project
 
-## Name_of_project_should_be_there
+## FaceIt
 
 This is my project for first-course-semester-work at Computer sciense, first year
+
+## Info
+
+Go to Wiki
 
 ## Structure
 
